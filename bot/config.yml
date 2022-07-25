@@ -3,6 +3,6 @@ telegram:
   api_hash: "bbbfa43f067e1e8e2fb41f334d32a6a7"
   token: "1915896583:AAErqDx6EsDZS5aASNq8eKNicHT5c-7COmA"
   allowed_user_ids:
-    - 1438313485
+    - 1022358547
   lang_code: id
 log_level: "INFO"
