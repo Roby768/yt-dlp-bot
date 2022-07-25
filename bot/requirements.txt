@@ -4,3 +4,4 @@ addict==2.4.0
 tenacity==8.0.1
 tgcrypto==1.2.3
 uvloop==0.16.0
+yt-dlp
